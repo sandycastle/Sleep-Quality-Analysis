@@ -1,4 +1,4 @@
-#Considering the data from saude_do_sono_estilo_vida.csv, answer the questions below.
+# Considering the data from saude_do_sono_estilo_vida.csv, answer the questions below.
 
 You are a researcher who is trying to better understand the impact of a person's lifestyle on their sound quality, so there are two dice of about 373 people, where 12 characteristics are collected for each of them. Due to competition, your investigation was controlled and did not contain any false data on its basis. It is time for you to do your analysis and answer some questions.
 
